@@ -1,0 +1,15 @@
+
+h1{
+    color: red;
+}
+#alarm:hover{
+    background-color:lightgreen;
+}
+
+#alarmSubmit:hover{
+    background-color: green;
+}
+span{
+    font-size: 2rem;
+    color: blue;
+}
